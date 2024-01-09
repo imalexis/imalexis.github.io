@@ -55,7 +55,7 @@ The Object.entries() static method returns an array of a given object's own enum
         <link href="https://imalexis.github.io/blog/use-pagination-fragment"/>
         <updated>2024-01-09T15:47:15.000Z</updated>
         <summary type="html"><![CDATA[usePaginationFragment is a hook provided by Relay, a JavaScriptframework for building data-driven React applications with GraphQL.]]></summary>
-        <content type="html"><![CDATA[<p>usePaginationFragment is a hook provided by Relay, a JavaScriptframework for building data-driven React applications with GraphQL.</p>
+        <content type="html"><![CDATA[<p><code>usePaginationFragment</code> is a hook provided by Relay, a JavaScriptframework for building data-driven React applications with GraphQL.</p>
 <p>This hook is specially designed for working with paginated data.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-a-pagination-fragment">What is a Pagination Fragment<a href="https://imalexis.github.io/blog/use-pagination-fragment#what-is-a-pagination-fragment" class="hash-link" aria-label="Direct link to What is a Pagination Fragment" title="Direct link to What is a Pagination Fragment">​</a></h2>
 <p>A pagination fragment in Relay is a way to define a part of a GraphQL query that deals with a list of items taht can be paginated.
