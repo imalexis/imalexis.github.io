@@ -4,10 +4,18 @@
         <title>My Site Blog</title>
         <link>https://imalexis.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 12 Jan 2024 15:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 15:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[test3]]></title>
+            <link>https://imalexis.github.io/blog/test3</link>
+            <guid>https://imalexis.github.io/blog/test3</guid>
+            <pubDate>Fri, 12 Jan 2024 15:47:27 GMT</pubDate>
+            <description><![CDATA[nfsl]]></description>
+            <content:encoded><![CDATA[<p>nfsl</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[test2]]></title>
             <link>https://imalexis.github.io/blog/test2</link>

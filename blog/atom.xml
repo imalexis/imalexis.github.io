@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imalexis.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2024-01-12T15:45:42.581Z</updated>
+    <updated>2024-01-12T15:47:27.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imalexis.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://imalexis.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[test3]]></title>
+        <id>https://imalexis.github.io/blog/test3</id>
+        <link href="https://imalexis.github.io/blog/test3"/>
+        <updated>2024-01-12T15:47:27.567Z</updated>
+        <summary type="html"><![CDATA[nfsl]]></summary>
+        <content type="html"><![CDATA[<p>nfsl</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test2]]></title>
         <id>https://imalexis.github.io/blog/test2</id>
