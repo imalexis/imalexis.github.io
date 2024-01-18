@@ -2,40 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imalexis.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2024-01-12T15:47:27.567Z</updated>
+    <updated>2024-01-18T13:51:21.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imalexis.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://imalexis.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[test3]]></title>
-        <id>https://imalexis.github.io/blog/test3</id>
-        <link href="https://imalexis.github.io/blog/test3"/>
-        <updated>2024-01-12T15:47:27.567Z</updated>
-        <summary type="html"><![CDATA[nfsl]]></summary>
-        <content type="html"><![CDATA[<p>nfsl</p>]]></content>
+        <title type="html"><![CDATA[How to design customized rendering]]></title>
+        <id>https://imalexis.github.io/blog/design-customized-rendering</id>
+        <link href="https://imalexis.github.io/blog/design-customized-rendering"/>
+        <updated>2024-01-18T13:51:21.157Z</updated>
+        <summary type="html"><![CDATA[Customized rendering refers to the ability to create and control the appearance and behavior of components in a way that goes beyond the default or standard rendering provided by a library or framework.]]></summary>
+        <content type="html"><![CDATA[<p>Customized rendering refers to the ability to create and control the appearance and behavior of components in a way that goes beyond the default or standard rendering provided by a library or framework.
+Customized rendering is a powerful concept that allows you to tailor your application to specific needs and design considerations.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-component-structure-and-style">1. Component Structure and Style<a href="https://imalexis.github.io/blog/design-customized-rendering#1-component-structure-and-style" class="hash-link" aria-label="Direct link to 1. Component Structure and Style" title="Direct link to 1. Component Structure and Style">​</a></h2>
+<p>We can customize the structure and style of our components to align with your application's design.
+This involves writing custom HTML, CSS, or JSX to define how the component should look.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-dynamic-content-and-data-binding">2. Dynamic Content and Data Binding<a href="https://imalexis.github.io/blog/design-customized-rendering#2-dynamic-content-and-data-binding" class="hash-link" aria-label="Direct link to 2. Dynamic Content and Data Binding" title="Direct link to 2. Dynamic Content and Data Binding">​</a></h2>
+<p>Customized rendering allow us to handle dynamic content data binding.
+We can create components that accept dynamic data as props and render it accordingly.
+This can involve conditional rendering, iterating over data arrays, or using other techniques to dynamically display content</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-event-handling">3. Event Handling<a href="https://imalexis.github.io/blog/design-customized-rendering#3-event-handling" class="hash-link" aria-label="Direct link to 3. Event Handling" title="Direct link to 3. Event Handling">​</a></h2>
+<p>Customize the how the components respond ti user interactions by handling events.
+This includes defining custom event handler and specifing how the component should behave when certain actions occur.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-conditional-rendering">4. Conditional Rendering<a href="https://imalexis.github.io/blog/design-customized-rendering#4-conditional-rendering" class="hash-link" aria-label="Direct link to 4. Conditional Rendering" title="Direct link to 4. Conditional Rendering">​</a></h2>
+<p>Customize the rendering of components based on certain conditions.
+E.g., show or hide specific elements, change styles, or render alternaive content based on the state or props of a component.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[test2]]></title>
-        <id>https://imalexis.github.io/blog/test2</id>
-        <link href="https://imalexis.github.io/blog/test2"/>
-        <updated>2024-01-12T15:45:42.581Z</updated>
-        <summary type="html"><![CDATA[hihfskfhso]]></summary>
-        <content type="html"><![CDATA[<p>hihfskfhso</p>]]></content>
+        <title type="html"><![CDATA[REST API vs GraphQL]]></title>
+        <id>https://imalexis.github.io/blog/difference-between-graphql-and-rest</id>
+        <link href="https://imalexis.github.io/blog/difference-between-graphql-and-rest"/>
+        <updated>2024-01-18T08:53:36.559Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[test1]]></title>
-        <id>https://imalexis.github.io/blog/test1</id>
-        <link href="https://imalexis.github.io/blog/test1"/>
-        <updated>2024-01-12T15:44:30.144Z</updated>
-        <summary type="html"><![CDATA[HHFKSBFD]]></summary>
-        <content type="html"><![CDATA[<p>HHFKSBFD</p>]]></content>
+        <title type="html"><![CDATA[aws]]></title>
+        <id>https://imalexis.github.io/blog/aws-service</id>
+        <link href="https://imalexis.github.io/blog/aws-service"/>
+        <updated>2024-01-18T08:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 can be used to store and retrieve any type of data. By default all Amazon S3 resources are private. Only the resource owner can optionally grant access permissions to others by writting an access policy.]]></summary>
+        <content type="html"><![CDATA[<p>Amazon S3 can be used to store and retrieve any type of data. By default all Amazon S3 resources are private. Only the resource owner can optionally grant access permissions to others by writting an access policy.</p>
+<p>website-bucket-8ce43d90</p>]]></content>
+        <category label="cloud" term="cloud"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Relay - Mutation]]></title>
         <id>https://imalexis.github.io/blog/relay-mutation</id>
         <link href="https://imalexis.github.io/blog/relay-mutation"/>
-        <updated>2024-01-09T15:49:03.539Z</updated>
+        <updated>2024-01-18T08:20:33.000Z</updated>
         <summary type="html"><![CDATA[general steps for creating a new object using Relay Mutations:]]></summary>
         <content type="html"><![CDATA[<p>general steps for creating a new object using Relay Mutations:</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-define-a-graphql-mutation">1. Define a GraphQL Mutation<a href="https://imalexis.github.io/blog/relay-mutation#1-define-a-graphql-mutation" class="hash-link" aria-label="Direct link to 1. Define a GraphQL Mutation" title="Direct link to 1. Define a GraphQL Mutation">​</a></h3>
@@ -55,10 +69,59 @@
         <category label="Relay" term="Relay"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[suspense/react-suspense]]></title>
+        <id>https://imalexis.github.io/blog/suspense/react-suspense</id>
+        <link href="https://imalexis.github.io/blog/suspense/react-suspense"/>
+        <updated>2024-01-09T15:49:03.534Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="slug-react-suspensetitle--react-suspensetags-react">slug: react-suspense
+title:  react Suspense
+tags: [React]<a href="https://imalexis.github.io/blog/suspense/react-suspense#slug-react-suspensetitle--react-suspensetags-react" class="hash-link" aria-label="Direct link to slug: react-suspense
+title:  react Suspense
+tags: [React]" title="Direct link to slug: react-suspense
+title:  react Suspense
+tags: [React]">​</a></h2>
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">apple</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">orange</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p>hello apple</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>hello orange</p></div></div></div>
+<h1>&lt;Suspense&gt;</h1>
+<p>&lt;Suspense&gt; component is part of <em>React's</em> Concurrent Mode feature to improve the user experience by making it more respective and resilient.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="purpose">Purpose<a href="https://imalexis.github.io/blog/suspense/react-suspense#purpose" class="hash-link" aria-label="Direct link to Purpose" title="Direct link to Purpose">​</a></h2>
+<p>The primary purpose of the &lt;Suspense&gt; component is to handle asynchronous operations, such as data fetching or lazy loading of components, in a more declarative way. It allows you to "suspend" rendering until some condition is met, typically until data is ready.</p>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports maybe-class-name">React</span><span class="token imports punctuation" style="color:#393A34">,</span><span class="token imports"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> </span><span class="token imports maybe-class-name">Suspense</span><span class="token imports"> </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'react'</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> </span><span class="token maybe-class-name">MyComponent</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token maybe-class-name">React</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">lazy</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">import</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'./MyComponent'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">function</span><span class="token plain"> </span><span class="token function maybe-class-name" style="color:#d73a49">App</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Suspense</span><span class="token plain"> fallback</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">div</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Loading</span><span class="token spread operator" style="color:#393A34">...</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">div</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">MyComponent</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">/</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token maybe-class-name">Suspense</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>When you are using Relay's <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">useLazyQuery</span> , the official document recommend wrap it with a <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Suspense</span> Component for better user experience.</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common-usage">Common usage<a href="https://imalexis.github.io/blog/suspense/react-suspense#common-usage" class="hash-link" aria-label="Direct link to Common usage" title="Direct link to Common usage">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="displaying-a-fallback-while-content-is-loading">Displaying a fallback while content is loading<a href="https://imalexis.github.io/blog/suspense/react-suspense#displaying-a-fallback-while-content-is-loading" class="hash-link" aria-label="Direct link to Displaying a fallback while content is loading" title="Direct link to Displaying a fallback while content is loading">​</a></h3>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Suspense</span><span class="token plain"> fallback</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Loading</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">/</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Albums</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">/</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token maybe-class-name">Suspense</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>React will display <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">loading fallback</span>
+until all the code and data needed by the children has been loaded.</p>
+<p>Only Suspense-enable data sources will activate the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Suspense component</span>.</p>
+<ol>
+<li>Data fetching with Suspense-enabled frameworks like <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Relay</span> and <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Next.js</span>, such as <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">useLazyQuery</span> in <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Relay</span></li>
+<li>Lazy-loading component code with <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">lazy</span></li>
+<li>Reading the value of a Promise with <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">use</span></li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="revealing-content-together-at-once">Revealing content together at once<a href="https://imalexis.github.io/blog/suspense/react-suspense#revealing-content-together-at-once" class="hash-link" aria-label="Direct link to Revealing content together at once" title="Direct link to Revealing content together at once">​</a></h3>
+<p>By default, the whole tree inside Suspense is treated as a single unit. Only all components inside the Suspense have been ready for rendering, all of those components will appear at once. Otherwise, even if only one of these components suspends waiting for some data, all of them together will be replaced by the loading indicator.</p>
+<p><img loading="lazy" alt="Image" src="https://imalexis.github.io/assets/images/image-d8f1ab47a015ccd1ae121ab782b76520.png" width="1698" height="326" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="revealing-nested-content-as-it-loads">Revealing nested content as it loads<a href="https://imalexis.github.io/blog/suspense/react-suspense#revealing-nested-content-as-it-loads" class="hash-link" aria-label="Direct link to Revealing nested content as it loads" title="Direct link to Revealing nested content as it loads">​</a></h3>
+<p>Each Suspense boundary's fallback will be filled in as the next level of content becomes available.</p>
+<p><img loading="lazy" alt="Image" src="https://imalexis.github.io/assets/images/image-1-86919027ee5d9a0b36f0fcf501dc2d3f.png" width="1710" height="442" class="img_ev3q"></p>
+<p>With this change, displaying the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Biography</span> doesn't need to "wait" for the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> to load.</p>
+<span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">AlbumsGlimmer</span>
+<p>Let's break it down with proper sequence:</p>
+<ol>
+<li>If <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Biography</span> hasn't loaded yet, <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">BigSpinner</span> is shown in place of the entire content area.</li>
+<li>Once the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Biography</span> finishes loadingm <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">BigSpinner</span> is replaced by the content.</li>
+<li>If <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> hasn't loaded yet, <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">AlbumsGlimmer</span> id shown in place of <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> and its parent Panel.</li>
+<li>Finally, once <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> finishes loading, it replaces <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">AlbumsGlimmer</span>.</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="more-usage-see-at-react-suspense">More usage see at <a href="https://react.dev/reference/react/Suspense" target="_blank" rel="noopener noreferrer">react &lt;Suspense&gt;</a><a href="https://imalexis.github.io/blog/suspense/react-suspense#more-usage-see-at-react-suspense" class="hash-link" aria-label="Direct link to more-usage-see-at-react-suspense" title="Direct link to more-usage-see-at-react-suspense">​</a></h3>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[applications-of-heap]]></title>
         <id>https://imalexis.github.io/blog/applications-of-heap</id>
         <link href="https://imalexis.github.io/blog/applications-of-heap"/>
-        <updated>2024-01-09T15:49:03.534Z</updated>
+        <updated>2024-01-09T15:47:15.000Z</updated>
         <summary type="html"><![CDATA[---]]></summary>
         <content type="html"><![CDATA[<hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="slug-heap-applicationtitle-applications-of-heaptags-data-structure-heap">slug: heap-application
@@ -83,55 +146,6 @@ tags: [data structure, heap]">​</a></h2>
 <li>Repeat step 3 until we have removed the K smallest elements.</li>
 </ol><p>Time Complexity: O(KlogN + N)
 Space complexity: O(N)</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>hello orange</p></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[react-suspense]]></title>
-        <id>https://imalexis.github.io/blog/react-suspense</id>
-        <link href="https://imalexis.github.io/blog/react-suspense"/>
-        <updated>2024-01-09T15:49:03.534Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="slug-react-suspensetitle--react-suspensetags-react">slug: react-suspense
-title:  react Suspense
-tags: [React]<a href="https://imalexis.github.io/blog/react-suspense#slug-react-suspensetitle--react-suspensetags-react" class="hash-link" aria-label="Direct link to slug: react-suspense
-title:  react Suspense
-tags: [React]" title="Direct link to slug: react-suspense
-title:  react Suspense
-tags: [React]">​</a></h2>
-<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">apple</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">orange</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p>hello apple</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>hello orange</p></div></div></div>
-<h1>&lt;Suspense&gt;</h1>
-<p>&lt;Suspense&gt; component is part of <em>React's</em> Concurrent Mode feature to improve the user experience by making it more respective and resilient.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="purpose">Purpose<a href="https://imalexis.github.io/blog/react-suspense#purpose" class="hash-link" aria-label="Direct link to Purpose" title="Direct link to Purpose">​</a></h2>
-<p>The primary purpose of the &lt;Suspense&gt; component is to handle asynchronous operations, such as data fetching or lazy loading of components, in a more declarative way. It allows you to "suspend" rendering until some condition is met, typically until data is ready.</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports maybe-class-name">React</span><span class="token imports punctuation" style="color:#393A34">,</span><span class="token imports"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> </span><span class="token imports maybe-class-name">Suspense</span><span class="token imports"> </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'react'</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> </span><span class="token maybe-class-name">MyComponent</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token maybe-class-name">React</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">lazy</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">import</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'./MyComponent'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">function</span><span class="token plain"> </span><span class="token function maybe-class-name" style="color:#d73a49">App</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Suspense</span><span class="token plain"> fallback</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">div</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Loading</span><span class="token spread operator" style="color:#393A34">...</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">div</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">MyComponent</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">/</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token maybe-class-name">Suspense</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>When you are using Relay's <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">useLazyQuery</span> , the official document recommend wrap it with a <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Suspense</span> Component for better user experience.</p></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common-usage">Common usage<a href="https://imalexis.github.io/blog/react-suspense#common-usage" class="hash-link" aria-label="Direct link to Common usage" title="Direct link to Common usage">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="displaying-a-fallback-while-content-is-loading">Displaying a fallback while content is loading<a href="https://imalexis.github.io/blog/react-suspense#displaying-a-fallback-while-content-is-loading" class="hash-link" aria-label="Direct link to Displaying a fallback while content is loading" title="Direct link to Displaying a fallback while content is loading">​</a></h3>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Suspense</span><span class="token plain"> fallback</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Loading</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">/</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token maybe-class-name">Albums</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">/</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token maybe-class-name">Suspense</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<p>React will display <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">loading fallback</span>
-until all the code and data needed by the children has been loaded.</p>
-<p>Only Suspense-enable data sources will activate the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Suspense component</span>.</p>
-<ol>
-<li>Data fetching with Suspense-enabled frameworks like <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Relay</span> and <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Next.js</span>, such as <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">useLazyQuery</span> in <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Relay</span></li>
-<li>Lazy-loading component code with <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">lazy</span></li>
-<li>Reading the value of a Promise with <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">use</span></li>
-</ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="revealing-content-together-at-once">Revealing content together at once<a href="https://imalexis.github.io/blog/react-suspense#revealing-content-together-at-once" class="hash-link" aria-label="Direct link to Revealing content together at once" title="Direct link to Revealing content together at once">​</a></h3>
-<p>By default, the whole tree inside Suspense is treated as a single unit. Only all components inside the Suspense have been ready for rendering, all of those components will appear at once. Otherwise, even if only one of these components suspends waiting for some data, all of them together will be replaced by the loading indicator.</p>
-<p><img loading="lazy" alt="Alt text" src="https://imalexis.github.io/assets/images/image-d8f1ab47a015ccd1ae121ab782b76520.png" width="1698" height="326" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="revealing-nested-content-as-it-loads">Revealing nested content as it loads<a href="https://imalexis.github.io/blog/react-suspense#revealing-nested-content-as-it-loads" class="hash-link" aria-label="Direct link to Revealing nested content as it loads" title="Direct link to Revealing nested content as it loads">​</a></h3>
-<p>Each Suspense boundary's fallback will be filled in as the next level of content becomes available.</p>
-<p><img loading="lazy" alt="Alt text" src="https://imalexis.github.io/assets/images/image-1-86919027ee5d9a0b36f0fcf501dc2d3f.png" width="1710" height="442" class="img_ev3q"></p>
-<p>With this change, displaying the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Biography</span> doesn't need to "wait" for the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> to load.</p>
-<span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">AlbumsGlimmer</span>
-<p>Let's break it down with proper sequence:</p>
-<ol>
-<li>If <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Biography</span> hasn't loaded yet, <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">BigSpinner</span> is shown in place of the entire content area.</li>
-<li>Once the <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Biography</span> finishes loadingm <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">BigSpinner</span> is replaced by the content.</li>
-<li>If <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> hasn't loaded yet, <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">AlbumsGlimmer</span> id shown in place of <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> and its parent Panel.</li>
-<li>Finally, once <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">Albums</span> finishes loading, it replaces <span style="background-color:#2C6F63;border-radius:2px;border:1px solid black;color:#fff;padding:0.2rem">AlbumsGlimmer</span>.</li>
-</ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="more-usage-see-at-react-suspense">More usage see at <a href="https://react.dev/reference/react/Suspense" target="_blank" rel="noopener noreferrer">react &lt;Suspense&gt;</a><a href="https://imalexis.github.io/blog/react-suspense#more-usage-see-at-react-suspense" class="hash-link" aria-label="Direct link to more-usage-see-at-react-suspense" title="Direct link to more-usage-see-at-react-suspense">​</a></h3>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[js]]></title>
@@ -159,7 +173,7 @@ The Object.entries() static method returns an array of a given object's own enum
         <link href="https://imalexis.github.io/blog/use-pagination-fragment"/>
         <updated>2024-01-09T15:47:15.000Z</updated>
         <summary type="html"><![CDATA[usePaginationFragment is a hook provided by Relay, a JavaScriptframework for building data-driven React applications with GraphQL.]]></summary>
-        <content type="html"><![CDATA[<p><code>usePaginationFragment</code> is a hook provided by Relay, a JavaScriptframework for building data-driven React applications with GraphQL.</p>
+        <content type="html"><![CDATA[<p>usePaginationFragment is a hook provided by Relay, a JavaScriptframework for building data-driven React applications with GraphQL.</p>
 <p>This hook is specially designed for working with paginated data.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-a-pagination-fragment">What is a Pagination Fragment<a href="https://imalexis.github.io/blog/use-pagination-fragment#what-is-a-pagination-fragment" class="hash-link" aria-label="Direct link to What is a Pagination Fragment" title="Direct link to What is a Pagination Fragment">​</a></h2>
 <p>A pagination fragment in Relay is a way to define a part of a GraphQL query that deals with a list of items taht can be paginated.
@@ -226,6 +240,36 @@ The fragment reference(fragmentKey) is an opaque Relay object that Relay uses to
         <category label="data structure" term="data structure"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[applications-of-heap]]></title>
+        <id>https://imalexis.github.io/blog/2024/01/08/applications-of-heap</id>
+        <link href="https://imalexis.github.io/blog/2024/01/08/applications-of-heap"/>
+        <updated>2024-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="slug-heap-applicationtitle-applications-of-heaptags-data-structure-heap">slug: heap-application
+title: Applications of Heap
+tags: [data structure, heap]<a href="https://imalexis.github.io/blog/2024/01/08/applications-of-heap#slug-heap-applicationtitle-applications-of-heaptags-data-structure-heap" class="hash-link" aria-label="Direct link to slug: heap-application
+title: Applications of Heap
+tags: [data structure, heap]" title="Direct link to slug: heap-application
+title: Applications of Heap
+tags: [data structure, heap]">​</a></h2>
+<p>leetcode natively supports JS PQs, including a Min one.</p>
+<p><a href="https://github.com/datastructures-js/priority-queue" target="_blank" rel="noopener noreferrer">github datastructures - priority queue</a></p>
+<p><a href="https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages-" target="_blank" rel="noopener noreferrer">github leetcode - environment for the programming languages</a></p>
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">The Top K Problem</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">--</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p>Use the Heap data structure to obtain Top K’s largest or smallest elements.</p><p>Solution of the Top K largest elements:</p><ol>
+<li>Construct a Max Heap.</li>
+<li>Add all elements into the Max Heap.</li>
+<li>Traversing and deleting the top element, and store the value into the result arry T.</li>
+<li>Repeat step 3 until we have removed the K largest elements.</li>
+</ol><p>Solution of the Top K smalllest elements</p><ol>
+<li>Construct a Min Heap</li>
+<li>Add all elements into the Min Heap</li>
+<li>Traversing and deleing the top element, and store the value into the result array T.</li>
+<li>Repeat step 3 until we have removed the K smallest elements.</li>
+</ol><p>Time Complexity: O(KlogN + N)
+Space complexity: O(N)</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>hello orange</p></div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fragments]]></title>
         <id>https://imalexis.github.io/blog/relay-fragment</id>
         <link href="https://imalexis.github.io/blog/relay-fragment"/>
@@ -243,36 +287,6 @@ The fragment reference(fragmentKey) is an opaque Relay object that Relay uses to
         <category label="React" term="React"/>
         <category label="Relay" term="Relay"/>
         <category label="GraphQl" term="GraphQl"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://imalexis.github.io/blog/welcome</id>
-        <link href="https://imalexis.github.io/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img loading="lazy" alt="Docusaurus Plushie" src="https://imalexis.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
