@@ -42,7 +42,7 @@ E.g., show or hide specific elements, change styles, or render alternaive conten
         <updated>2024-01-18T08:20:33.000Z</updated>
         <summary type="html"><![CDATA[Amazon S3 can be used to store and retrieve any type of data. By default all Amazon S3 resources are private. Only the resource owner can optionally grant access permissions to others by writting an access policy.]]></summary>
         <content type="html"><![CDATA[<p>Amazon S3 can be used to store and retrieve any type of data. By default all Amazon S3 resources are private. Only the resource owner can optionally grant access permissions to others by writting an access policy.</p>
-<p>website-bucket-8ce43d90</p>]]></content>
+<p>Amazon EC2 uses public key cryptography to encrypt and decript login information. Public key cruptography uses a public key to encrypt a piece of data, and then the recipient uses their private key to decrypt the data. The public and private keys are known as a key pair.</p>]]></content>
         <category label="cloud" term="cloud"/>
     </entry>
     <entry>
