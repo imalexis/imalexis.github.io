@@ -43,7 +43,8 @@ E.g., show or hide specific elements, change styles, or render alternaive conten
             <pubDate>Thu, 18 Jan 2024 08:20:33 GMT</pubDate>
             <description><![CDATA[Amazon S3 can be used to store and retrieve any type of data. By default all Amazon S3 resources are private. Only the resource owner can optionally grant access permissions to others by writting an access policy.]]></description>
             <content:encoded><![CDATA[<p>Amazon S3 can be used to store and retrieve any type of data. By default all Amazon S3 resources are private. Only the resource owner can optionally grant access permissions to others by writting an access policy.</p>
-<p>Amazon EC2 uses public key cryptography to encrypt and decript login information. Public key cruptography uses a public key to encrypt a piece of data, and then the recipient uses their private key to decrypt the data. The public and private keys are known as a key pair.</p>]]></content:encoded>
+<p>Amazon EC2 uses public key cryptography to encrypt and decript login information. Public key cruptography uses a public key to encrypt a piece of data, and then the recipient uses their private key to decrypt the data. The public and private keys are known as a key pair.</p>
+<p>A virtual private cloud (VPC) is a virtusl network dedicated to an AWS account. While a VPC resides in an AWS Region, a subnet must reside within a single Availability Zone.</p>]]></content:encoded>
             <category>cloud</category>
         </item>
         <item>
