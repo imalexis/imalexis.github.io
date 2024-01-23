@@ -4,10 +4,62 @@
         <title>My Site Blog</title>
         <link>https://imalexis.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 18 Jan 2024 13:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 13:00:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Built-in React Hooks]]></title>
+            <link>https://imalexis.github.io/blog/react-hooks</link>
+            <guid>https://imalexis.github.io/blog/react-hooks</guid>
+            <pubDate>Tue, 23 Jan 2024 13:00:27 GMT</pubDate>
+            <description><![CDATA[State Hooks]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="state-hooks">State Hooks<a href="https://imalexis.github.io/blog/react-hooks#state-hooks" class="hash-link" aria-label="Direct link to State Hooks" title="Direct link to State Hooks">​</a></h2>
+<ul>
+<li>useState: declares a state variable tthat we can update directly.</li>
+<li>useReducer: declares a state variable with the update logic inside a reducer function.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="context-hooks">Context Hooks<a href="https://imalexis.github.io/blog/react-hooks#context-hooks" class="hash-link" aria-label="Direct link to Context Hooks" title="Direct link to Context Hooks">​</a></h2>
+<p>Context lets a component receive information from distant parents without passing it as props.</p>
+<ul>
+<li>useContext: reads and subscribes to a content.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ref-hooks">Ref Hooks<a href="https://imalexis.github.io/blog/react-hooks#ref-hooks" class="hash-link" aria-label="Direct link to Ref Hooks" title="Direct link to Ref Hooks">​</a></h2>
+<p>Refs let a component hold soe information that isn't used for rendering, like a DOM node or timeout ID. Refs are an "escape hatch" from the react paradigm. They are useful when you need to work with non-React systems, such as the built-in browser APIs.</p>
+<ul>
+<li>useRef: declares a ref. We can hold any value in it, but most often it's used to hold a DOM node.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="effect-hooks">Effect Hooks<a href="https://imalexis.github.io/blog/react-hooks#effect-hooks" class="hash-link" aria-label="Direct link to Effect Hooks" title="Direct link to Effect Hooks">​</a></h2>
+<p>Effects let a component connect to and synchronize with external systems. This includes dealing with network, browser DOM, animationm widgets written using a different UI library, and other non-React code.</p>
+<p>Effects are an “escape hatch” from the React paradigm. Don’t use Effects to orchestrate the data flow of your application. If you’re not interacting with an external system, you might not need an Effect.</p>
+<ul>
+<li>useEffect: connects a component to an external system.</li>
+<li>useLayoutEffect: fires before the browser repaints the screen.</li>
+<li>useInsertionEffect: fires before React makes changes to the DOM. Libraries can insert dynamic CSS here.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="performance-hooks">Performance Hooks<a href="https://imalexis.github.io/blog/react-hooks#performance-hooks" class="hash-link" aria-label="Direct link to Performance Hooks" title="Direct link to Performance Hooks">​</a></h2>
+<p>A common way to optimize re-renderinng performance is to skip uneccessary work.</p>
+<ul>
+<li>useMemo: lets you cache the result of an expensive calculation.</li>
+<li>useCallback: lets you cache a function definition before passing it down to an optimized component.</li>
+<li>useTransition: lets you mark a state transition as non-blocking and allow other updates to interrupt it.</li>
+<li>useDeferredValue: lets you defer updating a non-critical part of the UI and let parts update first.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resource-hooks">Resource Hooks<a href="https://imalexis.github.io/blog/react-hooks#resource-hooks" class="hash-link" aria-label="Direct link to Resource Hooks" title="Direct link to Resource Hooks">​</a></h2>
+<p>Resources can be accessed by a component without having them as a part of their state.</p>
+<ul>
+<li>use: lets you read the value of a resource like a Promise or context.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="other-hooks">Other Hooks<a href="https://imalexis.github.io/blog/react-hooks#other-hooks" class="hash-link" aria-label="Direct link to Other Hooks" title="Direct link to Other Hooks">​</a></h2>
+<p>Commonly useful to library authors.</p>
+<ul>
+<li>useDefaultValue</li>
+<li>useId</li>
+<li>useSyncExternalStore</li>
+</ul>]]></content:encoded>
+            <category>react</category>
+            <category>hook</category>
+        </item>
         <item>
             <title><![CDATA[How to design customized rendering]]></title>
             <link>https://imalexis.github.io/blog/design-customized-rendering</link>
