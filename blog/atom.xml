@@ -171,6 +171,14 @@ E.g., show or hide specific elements, change styles, or render alternaive conten
         <category label="Relay" term="Relay"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[React Router]]></title>
+        <id>https://imalexis.github.io/blog/react-router</id>
+        <link href="https://imalexis.github.io/blog/react-router"/>
+        <updated>2024-01-09T15:49:03.539Z</updated>
+        <category label="graphql" term="graphql"/>
+        <category label="Relay" term="Relay"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[suspense/react-suspense]]></title>
         <id>https://imalexis.github.io/blog/suspense/react-suspense</id>
         <link href="https://imalexis.github.io/blog/suspense/react-suspense"/>
@@ -260,14 +268,6 @@ Space complexity: O(N)</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden
 <p>Object.entries()
 The Object.entries() static method returns an array of a given object's own enumerable string-keyed property key-value pairs.</p>
 <p>The entries() method of Map instances returns a new map iterator object that contains the [key, value] pairs for each element in this map in insertion order.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Router]]></title>
-        <id>https://imalexis.github.io/blog/react-router</id>
-        <link href="https://imalexis.github.io/blog/react-router"/>
-        <updated>2024-01-09T15:47:15.000Z</updated>
-        <category label="graphql" term="graphql"/>
-        <category label="Relay" term="Relay"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[usePaginationFragment]]></title>
