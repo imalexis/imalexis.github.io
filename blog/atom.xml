@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imalexis.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2024-01-25T02:33:07.744Z</updated>
+    <updated>2024-02-01T05:29:20.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imalexis.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://imalexis.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fundamental Concepts in Programming - Expressions, Predicates, and Statement]]></title>
+        <id>https://imalexis.github.io/blog/programming-concepts-ExPreStmt</id>
+        <link href="https://imalexis.github.io/blog/programming-concepts-ExPreStmt"/>
+        <updated>2024-02-01T05:29:20.272Z</updated>
+        <summary type="html"><![CDATA[In computer science language, "expression," "predicate," and "statement" are terms often used to describe different constructs in programming languages. Here's a brief explanation of each:]]></summary>
+        <content type="html"><![CDATA[<p>In computer science language, "expression," "predicate," and "statement" are terms often used to describe different constructs in programming languages. Here's a brief explanation of each:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="expression">Expression:<a href="https://imalexis.github.io/blog/programming-concepts-ExPreStmt#expression" class="hash-link" aria-label="Direct link to Expression:" title="Direct link to Expression:">​</a></h2>
+<p>An expression is a combination of values, variables, operators, and function calls that can be evaluated to <strong>produce a single value</strong>.
+Expressions can be simple, like a literal value or a variable, or complex, involving arithmetic or logical operations.
+Examples: <code>5 + 3</code>, <code>x * y</code>, <code>isReady &amp;&amp; hasPermission</code>,<code> Math.sqrt(16)</code>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="predicate">Predicate:<a href="https://imalexis.github.io/blog/programming-concepts-ExPreStmt#predicate" class="hash-link" aria-label="Direct link to Predicate:" title="Direct link to Predicate:">​</a></h2>
+<p>A predicate is **a specific type of expression ** that <strong>evaluates to either true or false</strong> (also produce a single value).
+Predicates are commonly used in conditional statements and loops to make decisions based on whether a condition is true or false.
+Examples: x &gt; 0 (evaluates to true or false based on whether x is greater than 0), isReady &amp;&amp; hasPermission, name === "John".</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="statement">Statement:<a href="https://imalexis.github.io/blog/programming-concepts-ExPreStmt#statement" class="hash-link" aria-label="Direct link to Statement:" title="Direct link to Statement:">​</a></h2>
+<p>A statement is a complete instruction that performs a specific action.
+Unlike expressions, <strong>statements don't necessarily produce a value</strong>. They are executed for their side effects.
+Examples: variable declarations (let x = 5;), control flow statements (if, else, for, while), function declarations (function myFunction() <!-- -->).</p>
+<p>an expression is a combination of values and operators that evaluates to a single value, a predicate is a specific type of expression that evaluates to true or false, and a statement is a complete instruction that performs an action. In many programming languages, expressions can be used as part of statements, and predicates are often used to control the flow of statements.</p>]]></content>
+        <category label="programming-concepts" term="programming-concepts"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Algorithmic Mastery:Quick and Essential Syntax for Problem Solving]]></title>
         <id>https://imalexis.github.io/blog/JS-algorithmic-mastery</id>
