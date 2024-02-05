@@ -179,7 +179,7 @@ E.g., show or hide specific elements, change styles, or render alternaive conten
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="change-the-amazon-ec2-instance-type">Change the Amazon EC2 instance type:<a href="https://imalexis.github.io/blog/aws-service#change-the-amazon-ec2-instance-type" class="hash-link" aria-label="Direct link to Change the Amazon EC2 instance type:" title="Direct link to Change the Amazon EC2 instance type:">​</a></h3>
 </li>
 </ul>
-<p>We must stop your Amazon EBS-backed <strong>instance</strong> before we can change its instance type. Plan for downtime while our instance is stopped. Stopping the instance and changing its instance type might take a variable amount of time depending on our application's startip scripts.</p>]]></content:encoded>
+<p>We must stop your Amazon EBS-backed <strong>instance</strong> before we can change its instance type. Plan for downtime while our instance is stopped. Stopping the instance and changing its instance type might take a variable amount of time depending on our application's startup scripts.</p>]]></content:encoded>
             <category>cloud</category>
         </item>
         <item>
