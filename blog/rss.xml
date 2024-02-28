@@ -309,7 +309,7 @@ Space complexity: O(N)</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden
             <pubDate>Tue, 09 Jan 2024 15:47:15 GMT</pubDate>
             <description><![CDATA[JS reference]]></description>
             <content:encoded><![CDATA[<p>JS reference</p>
-<p>Map.prototype.entries() VS Object.entries()</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mapprototypeentries-vs-objectentries">Map.prototype.entries() VS Object.entries()<a href="https://imalexis.github.io/blog/js#mapprototypeentries-vs-objectentries" class="hash-link" aria-label="Direct link to Map.prototype.entries() VS Object.entries()" title="Direct link to Map.prototype.entries() VS Object.entries()">​</a></h2>
 <p>Object.entries()
 The Object.entries() static method returns an array of a given object's own enumerable string-keyed property key-value pairs.</p>
 <p>The entries() method of Map instances returns a new map iterator object that contains the [key, value] pairs for each element in this map in insertion order.</p>]]></content:encoded>
